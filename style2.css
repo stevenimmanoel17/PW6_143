@@ -1,0 +1,34 @@
+body {
+	background-color: black;
+	background-image: url("human_brain-wallpaper-1366x768.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: 50% 50%;
+    text-align: center;
+}
+
+h2 {
+	text-align: center;
+	color: white;
+	background-color: rgba(0,0,0,0.5);
+	font-family: 'Comforter', cursive;
+}
+
+p {
+	font-size: 16pt;
+	line-height: 150%;
+	padding:10px;
+	background-color: rgba(242,242,242,0.6);
+	width: 900px;
+	height: 605px;
+	text-align: center;
+	margin: auto;
+	font-family: 'Comforter', cursive;
+}
+
+.circular-image {
+    width: 150px;
+    height: 165px;
+    overflow: hidden;
+    border-radius: 50%; /* Tambahkan baris berikut */
+}

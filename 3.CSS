@@ -1,0 +1,8 @@
+body {
+	background-color: black;
+	background-image: url("B.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: 50% 50%;
+    text-align: center;
+}
